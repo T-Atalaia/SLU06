@@ -6,3 +6,4 @@ bananas
 cereals
 butter
 eggs
+toilet paper
