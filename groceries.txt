@@ -5,3 +5,4 @@ chocolate
 bananas
 cereals
 butter
+eggs
